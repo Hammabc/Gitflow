@@ -1,3 +1,8 @@
 new added!
+<<<<<<< HEAD
 hello
 new change
+=======
+new change
+hello!
+>>>>>>> master
