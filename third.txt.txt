@@ -2,7 +2,12 @@ new added!
 <<<<<<< HEAD
 hello
 new change
+<<<<<<< HEAD
 =======
 new change
 hello!
+>>>>>>> master
+=======
+hello!
+hi??
 >>>>>>> master
